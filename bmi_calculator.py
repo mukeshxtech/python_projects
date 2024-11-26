@@ -13,3 +13,4 @@ elif 25.0 <= bmi <= 29.9:
     print(f"BMI: {round(bmi,2)} and Category: Overweight")
 elif bmi >= 30:
     print(f"BMI: {round(bmi,2)} and Category: Obesity")
+
