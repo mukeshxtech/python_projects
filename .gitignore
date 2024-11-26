@@ -1,0 +1,15 @@
+# Ignore .idea folder (IDE settings)
+.idea/
+
+# Ignore virtual environments
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore common configuration files
+*.db
+*.sqlite3
