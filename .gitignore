@@ -2,7 +2,7 @@
 .idea/
 
 # Ignore virtual environments
-.venv/
+
 
 # Ignore Python bytecode files
 __pycache__/
