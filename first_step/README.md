@@ -1,1 +1,1 @@
-This repo consists of the beginner level python projects
+first step towards building projects in python
