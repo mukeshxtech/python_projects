@@ -1,0 +1,1 @@
+Blind Action Project is a silent auction system designed to facilitate competitive bidding while maintaining anonymity. The system efficiently tracks bids and determines the winner based on the highest bid amount at the conclusion of the auction.
