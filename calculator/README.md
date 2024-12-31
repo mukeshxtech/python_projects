@@ -1,0 +1,1 @@
+A lightweight calculator tool to solve basic mathematical equations with ease.
