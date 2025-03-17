@@ -53,7 +53,7 @@ def is_txn_successful(money_received,drink_cost):
     """Return True when payment is success, or False if money is insufficient"""
     if money_received >= drink_cost:
         change = round(money_received - drink_cost)
-        print(f"Here is ₹{change}")
+        print(f"Here is ${change}")
         global profit
         profit += drink_cost
         return True
@@ -79,7 +79,7 @@ while is_on:
         print(f"Water: {resources["water"]}ml")
         print(f"Milk: {resources["milk"]}ml")
         print(f"Coffee: {resources["coffee"]}g")
-        print(f"Money: ₹{profit}")
+        print(f"Money: ${profit}")
     else:
         drink = MENU[choice]
         if is_resource_sufficient(drink["ingredients"]):
